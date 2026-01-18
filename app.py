@@ -11,7 +11,7 @@ class SimpleBrowser(QMainWindow):
         super().__init__()
 
         # 1. Setup the Window
-        self.setWindowTitle("TigerID Browser")
+        self.setWindowTitle("OneDrive Login")
         self.resize(800, 600)
         
         # Hide the window icon
